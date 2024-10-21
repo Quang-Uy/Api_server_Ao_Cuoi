@@ -1,0 +1,348 @@
+{
+    "dichvu": [
+        {
+            "ID": "DV001",
+            "TenDichVu": "Cho thuê váy cưới",
+            "MoTa": "Váy cưới đẹp, mới, nhiều mẫu mã.",
+            "Gia": "5000000",
+            "TrangThai": "Còn hoạt động",
+            "LinkAnh": "https://tse1.mm.bing.net/th?id=OIP.ye1fFR1rj5XLqKtdBZcFjwHaJ4&pid=Api&P=0&h=220"
+        },
+        {
+            "ID": "DV002",
+            "TenDichVu": "Thiết kế váy cưới",
+            "MoTa": "Dịch vụ thiết kế váy cưới theo yêu cầu khách hàng.",
+            "Gia": "8000000",
+            "TrangThai": "Còn hoạt động",
+            "LinkAnh": "https://tse4.mm.bing.net/th?id=OIP.ZFLu5fzgy-8OxyKytxu0EAHaLH&pid=Api&P=0&h=220"
+        },
+        {
+            "ID": "DV003",
+            "TenDichVu": "Sửa váy cưới",
+            "MoTa": "Sửa chữa, điều chỉnh váy cưới theo kích thước khách hàng.",
+            "Gia": "2000000",
+            "TrangThai": "Còn hoạt động",
+            "LinkAnh": "https://tse2.mm.bing.net/th?id=OIP.WsFylVkGTVYgf6F4lWrIXgHaFl&pid=Api&P=0&h=220"
+        },
+        {
+            "ID": "DV004",
+            "TenDichVu": "Phụ kiện cưới",
+            "MoTa": "Cung cấp phụ kiện đi kèm với váy cưới như voan, găng tay.",
+            "Gia": "1000000",
+            "TrangThai": "Còn hoạt động",
+            "LinkAnh": "link_phu_kien.jpghttps://tse1.mm.bing.net/th?id=OIP.kqUa6RZ_FIjDN8oyo0gehQHaHa&pid=Api&P=0&h=220"
+        },
+        {
+            "ID": "DV005",
+            "TenDichVu": "Dịch vụ trang điểm",
+            "MoTa": "Trang điểm chuyên nghiệp cho cô dâu vào ngày cưới.",
+            "Gia": "3000000",
+            "TrangThai": "Còn hoạt động",
+            "LinkAnh": "https://tse4.mm.bing.net/th?id=OIP.p4JkW1gcrC7cDR3Iv71kbgHaEK&pid=Api&P=0&h=220"
+        },
+        {
+            "ID": "DV006",
+            "TenDichVu": "Chụp ảnh cưới",
+            "MoTa": "Gói chụp ảnh cưới với nhiếp ảnh gia chuyên nghiệp.",
+            "Gia": "15000000",
+            "TrangThai": "Còn hoạt động",
+            "LinkAnh": "https://tse3.mm.bing.net/th?id=OIP.RWFV33ZG6ILo36IgRvzS6QHaLH&pid=Api&P=0&h=220"
+        },
+        {
+            "ID": "DV007",
+            "TenDichVu": "Tư vấn phong cách cưới",
+            "MoTa": "Tư vấn miễn phí về phong cách và trang phục cưới.",
+            "Gia": "0",
+            "TrangThai": "Còn hoạt động",
+            "LinkAnh": "https://tse2.mm.bing.net/th?id=OIP.7q_PIa3-QPZlkgWw-NDu5AHaE7&pid=Api&P=0&h=220"
+        },
+        {
+            "ID": "DV008",
+            "TenDichVu": "Cho thuê xe cưới",
+            "MoTa": "Cho thuê xe sang trọng cho ngày cưới.",
+            "Gia": "6000000",
+            "TrangThai": "Còn hoạt động",
+            "LinkAnh": "https://tse1.mm.bing.net/th?id=OIP.xbKt1Qa4HVe8RF_sNu_QDQHaE-&pid=Api&P=0&h=220"
+        },
+        {
+            "ID": "DV009",
+            "TenDichVu": "Tổ chức tiệc cưới",
+            "MoTa": "Dịch vụ tổ chức tiệc cưới trọn gói.",
+            "Gia": "20000000",
+            "TrangThai": "Còn hoạt động",
+            "LinkAnh": "https://tse3.mm.bing.net/th?id=OIP.uH4j_IXcj3YfMNDx2rnPEQHaEo&pid=Api&P=0&h=220"
+        },
+        {
+            "ID": "DV010",
+            "TenDichVu": "Thiệp cưới",
+            "MoTa": "In thiệp cưới theo thiết kế của khách hàng.",
+            "Gia": "500000",
+            "TrangThai": "Còn hoạt động",
+            "LinkAnh": "https://tse1.mm.bing.net/th?id=OIP.jwpCPm0HcGPQ3s_2B1UQ2wHaGU&pid=Api&P=0&h=220"
+        }
+    ],
+    "services": [
+        {
+            "id": 1,
+            "image": "https://aocuoimailisa.vn/wp-content/uploads/2024/09/chup-album-cuoi-phim-truong-510x340.jpg",
+            "title": "Album Cưới Phim Trường Tại Dream Future 2024 Đẹp, Độc Đáo",
+            "intro": "Chụp album cưới phim trường đang trở thành xu hướng hot trong ngành dịch vụ cưới, mang đến cho các cặp đôi những bức ảnh không chỉ đẹp mắt mà còn độc đáo và sang trọng. Việc lựa chọn phim trường để chụp album cưới giúp tạo ra những khoảnh khắc lãng mạn và ấn tượng, khác biệt so với những hình ảnh truyền thống. Hãy cùng khám phá lý do tại sao dịch vụ chụp hình cưới phim trường của Mailisa Studio được nhiều cặp đôi săn đón thông qua bài viết dưới đây.",
+            "content": [
+                {
+                    "text": [
+                        "1. Chụp album cưới phim trường là gì?",
+                        "Với sự phát triển mạnh mẽ của dịch vụ chụp album cưới phim trường, các cặp đôi có thể dễ dàng tìm thấy những địa điểm chụp phù hợp với phong cách và sở thích cá nhân, đồng thời ghi lại những khoảnh khắc tuyệt vời trong ngày trọng đại của mình."
+                    ],
+                    "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2024/09/album-cuoi-phim-truong-510x340.jpg"
+                },
+                {
+                    "text": [
+                        "2. Dream Future – Thiên đường chụp album cưới phim trường",
+                        "Dream Future là một trong những phim trường hàng đầu, nổi bật với không gian đa dạng và đầy sáng tạo. Tại đây, bạn có thể dễ dàng tìm thấy những bối cảnh hoàn hảo cho album cưới của mình, từ các góc chụp lãng mạn trong nội thất sang trọng đến các không gian ngoại cảnh đầy sắc màu. Mỗi góc chụp tại Dream Future đều được thiết kế tỉ mỉ, giúp tạo ra một album cưới phim trường đầy ấn tượng và độc đáo."
+                    ],
+                    "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2024/09/chup-album-cuoi-phim-truong-2-683x1024.jpg"
+                },
+                {
+                    "text": [
+                        "3. Chụp hình cưới phim trường tại Mailisa Studio",
+                        "Với Dream Future là một phim trường mới và đầy tiềm năng, việc chọn lựa đơn vị chụp ảnh cưới uy tín là yếu tố quyết định để đảm bảo chất lượng bộ ảnh của bạn. Một nhiếp ảnh gia thiếu kinh nghiệm có thể không khai thác hết vẻ đẹp độc đáo của không gian này. Chính vì vậy, lựa chọn Mailisa, với hơn 20 năm kinh nghiệm trong ngành cưới, là một quyết định sáng suốt. Mailisa cam kết mang đến cho bạn một album cưới ấn tượng và sắc nét, kết hợp kỹ thuật chụp ảnh tinh tế và sự sáng tạo không ngừng."
+                    ],
+                    "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2024/09/chup-album-cuoi-phim-truong-bang-gia-510x340.jpg"
+                },
+                {
+                    "text": [
+                        "4. Tận hưởng trải nghiệm địa phương",
+                        "Nhiều khách sạn kết hợp với văn hóa bản địa, mang lại cho du khách trải nghiệm gần gũi với thiên nhiên, ẩm thực và con người Việt Nam. Bạn có thể thưởng thức những món ăn đặc sản hay tham gia vào các hoạt động văn hóa truyền thống tại một số khách sạn."
+                    ],
+                    "imageContent": "https://tse2.mm.bing.net/th?id=OIP.OzlcI4RjPvk4n63ybhiSsAHaE7&pid=Api&P=0&h=220"
+                }
+            ],
+            "notes": {
+                "title1": "Liên Hệ Với Mailisa Studio Ngay Hôm Nay",
+                "content1": [
+                    {
+                        "text": [
+                            "",
+                            "Đừng bỏ lỡ cơ hội tạo ra một album cưới phim trường độc đáo và ấn tượng tại Dream Future. Hãy liên hệ với Mailisa Studio ngay hôm nay để được tư vấn chi tiết và đặt lịch chụp hình. Chúng tôi 20 năm kinh nghiệm, Mailisa tự hào là điểm đến tin cậy, nơi cô dâu chú rể có thể gửi gắm niềm tin cho ngày trọng đại của mình. Chúng tôi cam kết mang đến cho bạn một ngày cưới hoàn hảo, trọn vẹn."
+                        ],
+                        "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2024/09/chup-hinh-album-phim-truong-doc-dao-683x1024.jpg"
+                    },
+                    {
+                        "text": [
+                            "",
+                            ""
+                        ],
+                        "imageContent": ""
+                    },
+                    {
+                        "text": [
+                            "",
+                            ""
+                        ],
+                        "imageContent": ""
+                    },
+                    {
+                        "text": [
+                            "",
+                            ""
+                        ],
+                        "imageContent": ""
+                    }
+                ],
+                "title2": "",
+                "content2": []
+            }
+        },
+        {
+            "id": 2,
+            "image": "https://aocuoimailisa.vn/wp-content/uploads/2023/04/dia-diem-chup-hinh-cuoi-dep-o-da-lat-1.jpg",
+            "title": "Album chụp ảnh cưới Đà Lạt",
+            "intro": "Đà Lạt là một địa điểm lý tưởng để chụp ảnh cưới bởi cảnh quan thiên nhiên tuyệt đẹp, không khí mát mẻ và không quá đông đúc. Đặc biệt là những khu vườn hoa rực rỡ, đồi chè xanh tươi và những thác nước đổ xuống từ độ cao. Ngoài ra, chụp hình cưới ở Đà Lạt còn có nhiều điểm du lịch khác như hồ Xuân Hương, đền Trần Hưng Đạo, chùa Linh Phước và những khu du lịch sinh thái như thung lũng Tình Yêu và vườn dâu Tây. Dưới đây là trọn bộ album hình cưới do êkip nhiếp ảnh tại Ảnh Viện áo cưới Mailisa thực hiện.",
+            "content": [
+                {
+                    "text": [
+                        "",
+                        ""
+                    ],
+                    "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/04/dia-diem-chup-hinh-cuoi-dep-o-da-lat-1.jpg"
+                },
+                {
+                    "text": [
+                        "",
+                        ""
+                    ],
+                    "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/04/VI-SAO-NEN-CHUP-HINH-CUOI-TAI-MAILISA.jpg"
+                },
+                {
+                    "text": [
+                        "",
+                        ""
+                    ],
+                    "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/04/chup-anh-cuoi-tai-mailisa-co-tot-khong.jpg"
+                },
+                {
+                    "text": [
+                        "",
+                        ""
+                    ],
+                    "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/04/concept-chup-hinh-cuoi-o-da-lat-voi-phong-cach-gia-ngoai.jpg"
+                }
+            ],
+            "notes": {
+                "title1": "",
+                "content1": [
+                    {
+                        "text": [
+                            "",
+                            ""
+                        ],
+                        "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/04/concept-chup-hinh-cuoi-o-da-lat-voi-phong-cach-truyen-thong.jpg"
+                    },
+                    {
+                        "text": [
+                            "",
+                            ""
+                        ],
+                        "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/04/concept-chup-hinh-cuoi-o-da-lat-voi-phong-cach-lang-man-kieu-au.jpg"
+                    },
+                    {
+                        "text": [
+                            "",
+                            ""
+                        ],
+                        "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/04/concept-chup-hinh-cuoi-o-da-lat-voi-phong-cach-hoang-hon-da-lat.jpg"
+                    },
+                    {
+                        "text": [
+                            "",
+                            ""
+                        ],
+                        "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/04/lua-chon-trang-phuc-phu-hop-khi-chup-hinh-cuoi-o-da-lat.jpg"
+                    }
+                ],
+                "title2": "",
+                "content2": []
+            }
+        },
+        {
+            "id": 3,
+            "image": "https://aocuoimailisa.vn/wp-content/uploads/2023/08/chup-hinh-cuoi-la-mon-qua-quy-gia-khang-dinh-tinh-yeu-lua-doi.jpg",
+            "title": "Album phim trường Lamour",
+            "intro": "Album phim trường Lamour đẹp, chất lượng cao từ thương hiệu cưới hàng đầu tại Thành phố Hồ Chí Minh – Ảnh Viện Áo Cưới Mailisa! Chúng tôi vinh hạnh được đón tiếp các cặp đôi đến trải nghiệm dịch vụ cưới chuyên nghiệp và ấn tượng. Với sứ mệnh chia sẻ gánh nặng kinh tế sau đại dịch COVID-19, Mailisa mang đến nhiều chương trình ưu đãi hấp dẫn cùng mức giá hợp lý, phù hợp với mọi nhu cầu của các cặp đôi.",
+            "content": [
+                {
+                    "text": [
+                        "",
+                        ""
+                    ],
+                    "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2024/09/studio-go-vap-chup-hinh-cuoi-510x340.jpg"
+                },
+                {
+                    "text": [
+                        "",
+                        ""
+                    ],
+                    "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2024/06/studio-chup-anh-cuoi-go-vap-gia-re-510x340.jpg"
+                },
+                {
+                    "text": [
+                        "",
+                        ""
+                    ],
+                    "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/12/hinh-anh-cuoi-co-dau-chu-re-510x340.jpg"
+                },
+                {
+                    "text": [
+                        "",
+                        ""
+                    ],
+                    "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/08/dich-vu-hau-ky-sua-anh.jpg"
+                }
+            ],
+            "notes": {
+                "title1": "",
+                "content1": [
+                    {
+                        "text": [
+                            "",
+                            ""
+                        ],
+                        "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/08/chup-anh-cuoi-phim-truong-mang-den-bo-anh-cuoi-dep.jpg"
+                    },
+                    {
+                        "text": [
+                            "",
+                            ""
+                        ],
+                        "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/08/chi-phi-chup-anh-cuoi-bao-nhieu.jpg"
+                    },
+                    {
+                        "text": [
+                            "",
+                            ""
+                        ],
+                        "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/08/bi-quyet-chon-hinh-cong-cuoi-dep.jpg"
+                    },
+                    {
+                        "text": [
+                            "",
+                            ""
+                        ],
+                        "imageContent": "https://aocuoimailisa.vn/wp-content/uploads/2023/04/moi-tam-hinh-cuoi-la-mot-cau-chuyen-tinh-yeu-dep.jpg"
+                    }
+                ],
+                "title2": "",
+                "content2": []
+            }
+        }
+    ],
+    "introduce": [
+        {
+            "id": 1,
+            "name": "Áo cưới Mailisa – Lưu giữ đường cong tình nồng đôi lứa",
+            "content": [
+                {
+                    "text": "Ảnh viện áo cưới Mailisa",
+                    "notes": "Ảnh viện áo cưới Mailisa chuyên cung cấp dịch vụ chụp hình cưới, chụp ảnh ngày cưới, chụp hình kỷ niệm ngày cưới, quay phim phóng sự, quay phim sự kiện…..Chặng đường 15 năm xây dựng và phát triển thương hiệu áo cưới Mailisa uy tín, chuyên nghiệp, chất lượng. Ảnh viện Áo cưới mailisa tự hào là nơi lưu giữ khoảnh khắc thăng hoa của hạnh phúc lứa đôi cho các diễn viên ca sỹ nổi tiếng và hơn 400.000 cặp đôi uyên ương khác. Trong đó diễn viên Huy Khánh – Anh Thư là minh chứng tiêu biểu nhất.",
+                    "image": "https://aocuoimailisa.vn/wp-content/uploads/2023/07/MG_3529-copy-510x340.jpg"
+                },
+                {
+                    "text": "Sự kiện ra đời của ảnh viện áo cưới Mailisa",
+                    "notes": "Thấu hiểu được tầm quan trọng của ngày cưới, không đơn thuần chỉ là một nghi thức mà là một sự kiện trọng đại của đời người, đánh dấu bước chuyển mình gắn bó trong đời sống hạnh phúc lứa đôi. Sẽ là hành trang quý giá để nuôi giữ ngọn lửa tình suốt trọn đời. Mai này với bộn bề lo toan thường nhật, có thể ta vô tình quên lãng nhưng khi lần giở lại những trang album cưới, con tim ta lại thổn thức bồi hồi, dâng trào bao cảm xúc yêu thương… Chính vì thế, áo cưới Mailisa đã thành lập vào năm 2008.",
+                    "image": "https://aocuoimailisa.vn/wp-content/uploads/2023/07/Mailisa-studio-don-vi-chup-hinh-cuoi-quan-3-tot-nhat.jpg"
+                },
+                {
+                    "text": "",
+                    "notes": "“Lưu lại đường cong tình nồng đôi lứa” là định hướng mục tiêu sáng tạo của áo cưới Mailisa, giúp cho cuộc đời luôn ấm nồng hương lửa tình yêu. Với tên gọi Mailisa Studio & Design: tọa lạc tại 174 Võ Thị Sáu, phường 7, quận 3, Tp Hồ Chí Minh. Áo cưới Mailisa mong muốn mang đến cho cô dâu và chú rể những bộ ảnh cưới đẹp nhất, sang trọng nhất, chất lượng nhất, đẳng cấp nhất, dịch vụ tốt nhất với chi phí thấp nhất.",
+                    "image": "https://aocuoimailisa.vn/wp-content/uploads/2023/04/mai-lia-doi-ngu-nhan-vien.jpg"
+                },
+                {
+                    "text": "Khách hàng nói gì về chúng tôi",
+                    "notes": "Mailisa studio là một thương hiệu studio chụp hình cưới nổi tiếng tại Việt Nam, nên rất chuyên nghiệp và đội ngũ nhiếp ảnh giỏi chuyên môn – giàu kinh nghiệm. Chúng tôi khẳng định 100% với bạn Chụp hình cưới ở mailisa rất đẹp, không chỉ số 1 ở tpHCM mà còn là cả nước. Dâu rể hoàn toàn yên tâm với đội ngũ nhiếp ảnh giá trẻ trung năng động, giàu kinh nghiệm, đã phục vụ cho hơn 400.000 đôi uyên ương khác nhau. Dưới đây là khách hàng nói đáng giá về chúng tôi.",
+                    "image": "https://aocuoimailisa.vn/wp-content/uploads/2023/07/bai-danh-gia-cua-khach-hang-1-510x574.jpg"
+                },
+                {
+                    "text": "Những thành tựu mà áo cưới Mailisa đạt được trong hơn 15 hoạt động",
+                    "notes": "Những cờ lưu niệm danh hiệu từ các đoàn thể, cơ quan là minh chứng khẳng định áo cưới Mailisa là đơn vị chụp hình cưới chất lượng nhất nói riêng và cả tp Hồ Chí Minh nói chung.",
+                    "image": "https://aocuoimailisa.vn/wp-content/uploads/2023/03/4-758.jpg"
+                },
+                {
+                    "text": "Vì sao nên chụp ảnh cưới tại Mailisastudio?",
+                    "notes": "Với hơn một thập kỷ kinh nghiệm và sự đam mê với ngành cưới, Mailisa đã khẳng định vị thế của mình hàng đầu trong lĩnh vực chụp ảnh cưới hình cưới tại thành phố Hồ Chí Minh. Mailisa Studio đã tạo nên những khoảnh khắc đáng nhớ và bộ ảnh cưới đẹp xuất sắc như trong phim Hàn.",
+                    "image": "https://aocuoimailisa.vn/wp-content/uploads/2023/04/moi-tam-hinh-cuoi-la-mot-cau-chuyen-tinh-yeu-dep.jpg"
+                },
+                {
+                    "text": "Cam kết của Mailisa studio",
+                    "notes": [
+                        "- Bộ ảnh cưới chất lượng tốt, đẹp nhất, sang trọng nhất.\n",
+                        "- Tiết kiệm chi phí nhất cho dâu rể\n",
+                        "- Dâu rể nhận được hoàn toàn bản gốc\n",
+                        "- Bảo hành 10 năm hình ảnh cưới nếu lỗi do studio.\n",
+                        "- Trong quá trình chụp hình cưới đến thiết kế, nếu dâu rể không hài lòng ở bất kỳ khâu nào, chúng tôi sẽ làm lại miễn phí hoàn toàn 100% cho dâu rể."
+                    ],
+                    "image": "https://aocuoimailisa.vn/wp-content/uploads/2023/08/tam-quan-trong-cua-chup-hinh-cong-cuoi-dep.jpg"
+                }
+            ]
+        }
+    ]
+}
